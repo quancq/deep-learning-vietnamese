@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Deep Learning Vietnamese"
+theme = "elephants"
+publishDir = "docs"
