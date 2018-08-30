@@ -2,246 +2,246 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning Vietnamese</title>
-    <link>http://example.org/</link>
+    <link>https://vub.github.io/deep-learning-vietnamese/</link>
     <description>Recent content on Deep Learning Vietnamese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 12:57:09 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vub.github.io/deep-learning-vietnamese/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chapter 20-2</title>
-      <link>http://example.org/posts/chapter202/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter202/</link>
       <pubDate>Thu, 30 Aug 2018 12:57:09 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter202/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter202/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 20-1</title>
-      <link>http://example.org/posts/chapter201/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter201/</link>
       <pubDate>Thu, 30 Aug 2018 12:57:04 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter201/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 19</title>
-      <link>http://example.org/posts/chapter19/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter19/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:53 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter19/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 18</title>
-      <link>http://example.org/posts/chapter18/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter18/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:50 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter18/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 17</title>
-      <link>http://example.org/posts/chapter17/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter17/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:48 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter17/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 16</title>
-      <link>http://example.org/posts/chapter16/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter16/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:46 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter16/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 15</title>
-      <link>http://example.org/posts/chapter15/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter15/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:44 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter15/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 14</title>
-      <link>http://example.org/posts/chapter14/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter14/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:42 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter14/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 13</title>
-      <link>http://example.org/posts/chapter13/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter13/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:39 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter13/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 12-2</title>
-      <link>http://example.org/posts/chapter122/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter122/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:17 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter122/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter122/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 12-1</title>
-      <link>http://example.org/posts/chapter121/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter121/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:11 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter121/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter121/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 11</title>
-      <link>http://example.org/posts/chapter11/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter11/</link>
       <pubDate>Thu, 30 Aug 2018 12:56:02 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter11/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 9-2</title>
-      <link>http://example.org/posts/chapter92/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter92/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:47 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter92/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 9-1</title>
-      <link>http://example.org/posts/chapter91/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter91/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:44 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter91/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter91/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 8-2</title>
-      <link>http://example.org/posts/chapter82/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter82/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:40 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter82/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter82/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 8-1</title>
-      <link>http://example.org/posts/chapter81/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter81/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:37 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter81/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 7-2</title>
-      <link>http://example.org/posts/chapter72/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter72/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:32 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter72/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter72/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 7-1</title>
-      <link>http://example.org/posts/chapter71/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter71/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:28 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter71/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 6-2</title>
-      <link>http://example.org/posts/chapter62/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter62/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:23 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter62/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter62/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 6-1</title>
-      <link>http://example.org/posts/chapter61/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter61/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:20 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter61/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter61/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 5-2</title>
-      <link>http://example.org/posts/chapter52/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter52/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:16 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter52/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter52/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 5-1</title>
-      <link>http://example.org/posts/chapter51/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter51/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:14 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter51/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter51/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 4</title>
-      <link>http://example.org/posts/chapter4/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter4/</link>
       <pubDate>Thu, 30 Aug 2018 12:55:11 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter4/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 3</title>
-      <link>http://example.org/posts/chapter3/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter3/</link>
       <pubDate>Thu, 30 Aug 2018 12:52:13 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter3/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 2</title>
-      <link>http://example.org/posts/chapter2/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter2/</link>
       <pubDate>Thu, 30 Aug 2018 12:26:39 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter2/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapter 1</title>
-      <link>http://example.org/posts/chapter1/</link>
+      <link>https://vub.github.io/deep-learning-vietnamese/posts/chapter1/</link>
       <pubDate>Thu, 30 Aug 2018 11:32:47 +0700</pubDate>
       
-      <guid>http://example.org/posts/chapter1/</guid>
+      <guid>https://vub.github.io/deep-learning-vietnamese/posts/chapter1/</guid>
       <description></description>
     </item>
     
